@@ -70,6 +70,7 @@ load	Load previously saved game
 help	Show all commands again
 quit	Exit the game
 
+  ```
 ## 💡 EXAMPLE ROOM FLOW
 
 ENTRANCE
@@ -82,8 +83,8 @@ ENTRANCE
                        |
                        |---> ESCAPE TUNNEL 🚪
 
-
   ```
+
 
 💾 FEATURES
 🧠 Puzzle-solving gameplay
@@ -98,7 +99,6 @@ ENTRANCE
 
 🧱 Hidden areas and items
 
-  ```
 
 🛠️ TECH STACK
 
@@ -110,7 +110,7 @@ Puzzles: Riddles & logical choices
 
 Save/Load: Plain text file system
 
-  ```
+
 
 🧠 FUTURE IDEAS
 🔐 Add file-based memory of player progress
