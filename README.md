@@ -86,7 +86,8 @@ ENTRANCE
   ```
 
 
-💾 FEATURES
+## 💾 FEATURES
+
 🧠 Puzzle-solving gameplay
 
 🧳 Inventory system
@@ -100,7 +101,7 @@ ENTRANCE
 🧱 Hidden areas and items
 
 
-🛠️ TECH STACK
+## 🛠️ TECH STACK
 
 Language: Python
 
@@ -112,7 +113,8 @@ Save/Load: Plain text file system
 
 
 
-🧠 FUTURE IDEAS
+## 🧠 FUTURE IDEAS
+
 🔐 Add file-based memory of player progress
 
 🖼️ Build GUI using Tkinter or Pygame
